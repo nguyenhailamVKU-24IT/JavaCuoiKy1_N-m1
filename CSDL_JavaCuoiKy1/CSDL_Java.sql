@@ -1,0 +1,1 @@
+SELECT * FROM QuanLyVatLieuXayDung.nguoiDung;
